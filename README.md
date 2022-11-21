@@ -1,2 +1,3 @@
-# Relational Database 
-freecodecamp Relational Database training
+# Relational Database and back end development
+Repository contains codes produced during freecodecamp training. 
+
